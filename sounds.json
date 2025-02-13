@@ -1,0 +1,4 @@
+[
+    { "id": "_pause", "img": "empty", "name": "Silence", "source": "", "tags": ["note", "percussion"] },
+    { "id": "tf2_crit", "name": "Critical Hit", "source": "Team Fortress 2", "tags": ["percussion"] }
+]
